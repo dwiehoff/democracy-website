@@ -18,7 +18,7 @@
                     DEMOCRACY, unsere Politik transparenter und demokratischer machen will.
                     <br><br>
                     Die Gewinnerzielungabsicht haben wir bereits mit der Wahl unserer Rechtsform bewusst ausgeschlossen.
-                    DEMOCRACY ist und bleibt <b>spendenfinanziert</b> - seit Tag 1. Daten, bei der Nutzung der App
+                    DEMOCRACY ist und bleibt <b>spendenfinanziert</b> - seit Tag 1. Daten, die bei der Nutzung der App
                     entstehen,
                     sind für uns keine handelbaren Wirtschaftsgüter, sondern im Sinne der informationellen
                     Selbstbestimmung und des Grundgesetzes zu schützen.
